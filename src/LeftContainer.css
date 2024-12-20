@@ -1,0 +1,9 @@
+#left-container{
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 140vh;
+    width: 40%;
+}

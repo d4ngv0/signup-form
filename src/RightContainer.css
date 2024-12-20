@@ -1,0 +1,9 @@
+#right-container {
+    width: 60%;
+    display: flex;
+}
+
+#wallpaper {
+    max-width: 100%;
+    height: auto;
+}

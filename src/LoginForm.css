@@ -1,0 +1,55 @@
+#form-container{
+    box-sizing: border-box;
+    margin: 16px 0;
+    /* display: flex;
+    justify-content: flex-start; 
+    flex-direction: column; */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    width: 100%;
+}
+
+.input-container {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+}
+
+.input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 8px;
+    border-radius: 12px;
+}
+
+#checkbox-container{
+    display: flex;
+}
+
+#checkbox-text {
+    display: flex;
+
+}
+
+#checkbox-link {
+    margin: 0 4px;
+}
+
+#signup-btn{
+    background-color: #008800;
+    color: #fff;
+    padding: 8px 0;
+    border: none;
+    border-radius: 12px;
+}
+
+#signup-btn:hover {
+    cursor: pointer;
+    background-color: #00ff00;
+}
